@@ -1,6 +1,6 @@
 import {UserContext} from "./App13"
 import { useContext } from "react";
-export default function Child() {
+export default function Childa() {
   const {user, email} = useContext(UserContext);
   return (
     <>
