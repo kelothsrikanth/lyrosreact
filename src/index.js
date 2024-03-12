@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-// import App20 from "./App20";
+import App20 from "./App20";
 
 
 
